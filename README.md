@@ -6,5 +6,5 @@ ls
 
 cd New
 
-python PANTHER_enc.py
+python PANTHER_ENC.py
 
